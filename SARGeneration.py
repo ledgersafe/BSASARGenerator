@@ -56,20 +56,23 @@ SATYPE = E.SuspiciousActivityTypeID
 ANI = E.ActivityNarrativeInformation
 ANISEQNUM = E.ActivityNarrativeSequenceNumber
 ANITEXT = E.ActivityNarrativeText
-
+PRTC = E.PrimaryRegulatorTypeCode
+PNTC = E.PartyNameTypeCode
+PN = E.PartyName
+RPFN = E.RawPartyFullName
+PHONENUM = E.PhoneNumber
+PNTEXT = E.PhoneNumberText
 # Adds Activity to a SAR Batch
-
-
 def addActivity():
     return ACTIVITY(seqNum(global_seq),
                     FILEDATE(currentDate()),
                     AA(seqNum(global_seq)),
-                    PARTY(APTC("35"), seqNum(global_seq)),
-                    PARTY(APTC("37"), seqNum(global_seq)),
-                    PARTY(APTC("33"), seqNum(global_seq)),
-                    PARTY(APTC("34"), seqNum(global_seq)),
-                    PARTY(APTC("30"), seqNum(global_seq)),
-                    PARTY(APTC("8"), seqNum(global_seq)),
+                    PARTY(APTC("35"), PN(seqNum(global_seq), PNTC("L"), RPFN("LedgerSafe")), PHONENUM(PNTEXT("7777777777"), seqNum(global_seq)), seqNum(global_seq)),
+                    PARTY(APTC("37"), PN(seqNum(global_seq), PNTC("L"), RPFN("LedgerSafe CSO")), seqNum(global_seq)),
+                    PARTY(APTC("33"), PN(seqNum(global_seq),PNTC("DBA"),RPFN("Subject Name")),seqNum(global_seq)),
+                    PARTY(APTC("34"),  PRTC("1"), PN(seqNum(global_seq),PNTC("L")), seqNum(global_seq)),
+                    PARTY(APTC("30"), PRTC("1"), PN(seqNum(global_seq),PNTC("L"), RPFN("LS FI Partner")), seqNum(global_seq)),
+                    PARTY(APTC("8"), PN(seqNum(global_seq),PNTC("L"), RPFN("Contact Office Name")), seqNum(global_seq)),
                     SA(SADATE(currentDate()),
                        SACLASS(
                         SASUBTYPE("106"), SATYPE("1"),
