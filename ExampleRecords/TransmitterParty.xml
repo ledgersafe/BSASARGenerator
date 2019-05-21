@@ -1,0 +1,25 @@
+<fc2:Party SeqNum="4">
+    <fc2:ActivityPartyTypeCode>35</fc2:ActivityPartyTypeCode>
+    <fc2:PartyName SeqNum="5">
+        <fc2:PartyNameTypeCode>L</fc2:PartyNameTypeCode>
+        <fc2:RawPartyFullName>Transmitter legal name</fc2:RawPartyFullName>
+    </fc2:PartyName>
+    <fc2:Address SeqNum="6">
+        <fc2:RawCityText>Transmitter city</fc2:RawCityText>
+        <fc2:RawCountryCodeText>US</fc2:RawCountryCodeText>
+        <fc2:RawStateCodeText>VA</fc2:RawStateCodeText>
+        <fc2:RawStreetAddress1Text>Transmitter street address</fc2:RawStreetAddress1Text>
+        <fc2:RawZIPCode>22113</fc2:RawZIPCode>
+    </fc2:Address>
+    <fc2:PhoneNumber SeqNum="7">
+        <fc2:PhoneNumberText>7217894455</fc2:PhoneNumberText>
+    </fc2:PhoneNumber>
+    <fc2:PartyIdentification SeqNum="8">
+        <fc2:PartyIdentificationNumberText>458985215</fc2:PartyIdentificationNumberText>
+        <fc2:PartyIdentificationTypeCode>4</fc2:PartyIdentificationTypeCode>
+    </fc2:PartyIdentification>
+    <fc2:PartyIdentification SeqNum="9">
+        <fc2:PartyIdentificationNumberText>PBSA1234</fc2:PartyIdentificationNumberText>
+        <fc2:PartyIdentificationTypeCode>28</fc2:PartyIdentificationTypeCode>
+    </fc2:PartyIdentification>
+</fc2:Party>

@@ -1,0 +1,11 @@
+<fc2:Party SeqNum="26">
+    <fc2:ActivityPartyTypeCode>8</fc2:ActivityPartyTypeCode>
+    <fc2:PartyName SeqNum="27">
+        <fc2:PartyNameTypeCode>L</fc2:PartyNameTypeCode>
+        <fc2:RawPartyFullName>Designated contact office</fc2:RawPartyFullName>
+    </fc2:PartyName>
+    <fc2:PhoneNumber SeqNum="28">
+        <fc2:PhoneNumberExtensionText>1234</fc2:PhoneNumberExtensionText>
+        <fc2:PhoneNumberText>4157653838</fc2:PhoneNumberText>
+    </fc2:PhoneNumber>
+</fc2:Party>

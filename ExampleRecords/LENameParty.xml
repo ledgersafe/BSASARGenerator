@@ -1,0 +1,12 @@
+<fc2:Party SeqNum="23">
+    <fc2:ActivityPartyTypeCode>19</fc2:ActivityPartyTypeCode>
+    <fc2:ContactDateText>20171105</fc2:ContactDateText>
+    <fc2:PartyName SeqNum="24">
+        <fc2:PartyNameTypeCode>L</fc2:PartyNameTypeCode>
+        <fc2:RawPartyFullName>LE Contact Name</fc2:RawPartyFullName>
+    </fc2:PartyName>
+    <fc2:PhoneNumber SeqNum="25">
+        <fc2:PhoneNumberExtensionText>5432</fc2:PhoneNumberExtensionText>
+        <fc2:PhoneNumberText>7039051234</fc2:PhoneNumberText>
+    </fc2:PhoneNumber>
+</fc2:Party>

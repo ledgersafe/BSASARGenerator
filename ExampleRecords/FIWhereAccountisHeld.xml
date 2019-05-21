@@ -1,0 +1,22 @@
+<fc2:Party SeqNum="75">
+    <fc2:ActivityPartyTypeCode>41</fc2:ActivityPartyTypeCode>
+    <fc2:NonUSFinancialInstitutionIndicator>Y</fc2:NonUSFinancialInstitutionIndicator>
+    <fc2:PartyIdentification SeqNum="76">
+        <fc2:PartyIdentificationNumberText>458789856</fc2:PartyIdentificationNumberText>
+        <fc2:PartyIdentificationTypeCode>4</fc2:PartyIdentificationTypeCode>
+    </fc2:PartyIdentification>
+    <fc2:Account SeqNum="77">
+        <fc2:AccountNumberText>1502417873</fc2:AccountNumberText>
+        <fc2:PartyAccountAssociation SeqNum="78">
+            <fc2:AccountClosedIndicator>Y</fc2:AccountClosedIndicator>
+            <fc2:PartyAccountAssociationTypeCode>5</fc2:PartyAccountAssociationTypeCode>
+        </fc2:PartyAccountAssociation>
+    </fc2:Account>
+    <fc2:Account SeqNum="79">
+        <fc2:AccountNumberText>5477887896</fc2:AccountNumberText>
+        <fc2:PartyAccountAssociation SeqNum="80">
+            <fc2:AccountClosedIndicator>Y</fc2:AccountClosedIndicator>
+            <fc2:PartyAccountAssociationTypeCode>5</fc2:PartyAccountAssociationTypeCode>
+        </fc2:PartyAccountAssociation>
+    </fc2:Account>
+</fc2:Party>

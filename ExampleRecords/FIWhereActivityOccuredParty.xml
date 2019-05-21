@@ -1,0 +1,49 @@
+<fc2:Party SeqNum="29">
+    <fc2:ActivityPartyTypeCode>34</fc2:ActivityPartyTypeCode>
+    <fc2:LossToFinancialAmountText>15000</fc2:LossToFinancialAmountText>
+    <fc2:NoBranchActivityInvolvedIndicator>Y</fc2:NoBranchActivityInvolvedIndicator>
+    <fc2:PayLocationIndicator>Y</fc2:PayLocationIndicator>
+    <fc2:PrimaryRegulatorTypeCode>4</fc2:PrimaryRegulatorTypeCode>
+    <fc2:PartyName SeqNum="30">
+        <fc2:PartyNameTypeCode>L</fc2:PartyNameTypeCode>
+        <fc2:RawPartyFullName>Union Bank of California</fc2:RawPartyFullName>
+    </fc2:PartyName>
+    <fc2:PartyName SeqNum="31">
+        <fc2:PartyNameTypeCode>DBA</fc2:PartyNameTypeCode>
+        <fc2:RawPartyFullName>Doing Business As Name</fc2:RawPartyFullName>
+    </fc2:PartyName>
+    <fc2:Address SeqNum="32">
+        <fc2:CityUnknownIndicator>Y</fc2:CityUnknownIndicator>
+        <fc2:CountryCodeUnknownIndicator>Y</fc2:CountryCodeUnknownIndicator>
+        <fc2:RawStreetAddress1Text>987 Rocky Road</fc2:RawStreetAddress1Text>
+        <fc2:StreetAddressUnknownIndicator>Y</fc2:StreetAddressUnknownIndicator>
+        <fc2:ZIPCodeUnknownIndicator>Y</fc2:ZIPCodeUnknownIndicator>
+    </fc2:Address>
+    <fc2:PartyIdentification SeqNum="33">
+        <fc2:PartyIdentificationNumberText>458789856</fc2:PartyIdentificationNumberText>
+        <fc2:PartyIdentificationTypeCode>2</fc2:PartyIdentificationTypeCode>
+    </fc2:PartyIdentification>
+    <fc2:PartyIdentification SeqNum="34">
+        <fc2:PartyIdentificationNumberText>5589887789</fc2:PartyIdentificationNumberText>
+        <fc2:PartyIdentificationTypeCode>10</fc2:PartyIdentificationTypeCode>
+    </fc2:PartyIdentification>
+    <fc2:PartyIdentification SeqNum="35">
+        <fc2:PartyIdentificationNumberText>4578958658</fc2:PartyIdentificationNumberText>
+        <fc2:PartyIdentificationTypeCode>29</fc2:PartyIdentificationTypeCode>
+    </fc2:PartyIdentification>
+    <fc2:OrganizationClassificationTypeSubtype SeqNum="36">
+        <fc2:OrganizationSubtypeID>533</fc2:OrganizationSubtypeID>
+        <fc2:OrganizationTypeID>5</fc2:OrganizationTypeID>
+    </fc2:OrganizationClassificationTypeSubtype>
+    <fc2:OrganizationClassificationTypeSubtype SeqNum="37">
+        <fc2:OrganizationSubtypeID>5999</fc2:OrganizationSubtypeID>
+        <fc2:OrganizationTypeID>5</fc2:OrganizationTypeID>
+        <fc2:OtherOrganizationSubTypeText>other S/F institution description</fc2:OtherOrganizationSubTypeText>
+    </fc2:OrganizationClassificationTypeSubtype>
+    <fc2:PartyAssociation SeqNum="38">
+        <fc2:Party SeqNum="39">
+            <fc2:ActivityPartyTypeCode>46</fc2:ActivityPartyTypeCode>
+            …
+        </fc2:Party>
+    </fc2:PartyAssociation>
+</fc2:Party>

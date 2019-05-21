@@ -1,0 +1,39 @@
+<fc2:Party SeqNum="12">
+    <fc2:ActivityPartyTypeCode>30</fc2:ActivityPartyTypeCode>
+    <fc2:PrimaryRegulatorTypeCode>7</fc2:PrimaryRegulatorTypeCode>
+    <fc2:PartyName SeqNum="13">
+        <fc2:PartyNameTypeCode>L</fc2:PartyNameTypeCode>
+        <fc2:RawPartyFullName>Filer name</fc2:RawPartyFullName>
+    </fc2:PartyName>
+    <fc2:PartyName SeqNum="14">
+        <fc2:PartyNameTypeCode>DBA</fc2:PartyNameTypeCode>
+        <fc2:RawPartyFullName>Alternate name</fc2:RawPartyFullName>
+    </fc2:PartyName>
+    <fc2:Address SeqNum="15">
+        <fc2:RawCityText>Rockville</fc2:RawCityText>
+        <fc2:RawCountryCodeText>US</fc2:RawCountryCodeText>
+        <fc2:RawStateCodeText>MD</fc2:RawStateCodeText>
+        <fc2:RawStreetAddress1Text>123 Viers Mill Road</fc2:RawStreetAddress1Text>
+        <fc2:RawZIPCode>20905</fc2:RawZIPCode>
+    </fc2:Address>
+    <fc2:PartyIdentification SeqNum="16">
+        <fc2:PartyIdentificationNumberText>125478965</fc2:PartyIdentificationNumberText>
+        <fc2:PartyIdentificationTypeCode>2</fc2:PartyIdentificationTypeCode>
+    </fc2:PartyIdentification>
+    <fc2:PartyIdentification SeqNum="17">
+        <fc2:PartyIdentificationNumberText>5558789654</fc2:PartyIdentificationNumberText>
+        <fc2:PartyIdentificationTypeCode>10</fc2:PartyIdentificationTypeCode>
+    </fc2:PartyIdentification>
+    <fc2:PartyIdentification SeqNum="18">
+        <fc2:PartyIdentificationNumberText>451256558</fc2:PartyIdentificationNumberText>
+        <fc2:PartyIdentificationTypeCode>29</fc2:PartyIdentificationTypeCode>
+    </fc2:PartyIdentification>
+    <fc2:OrganizationClassificationTypeSubtype SeqNum="19">
+        <fc2:OrganizationSubtypeID>535</fc2:OrganizationSubtypeID>
+        <fc2:OrganizationTypeID>5</fc2:OrganizationTypeID>
+    </fc2:OrganizationClassificationTypeSubtype>
+    <fc2:OrganizationClassificationTypeSubtype SeqNum="20">
+        <fc2:OrganizationSubtypeID>529</fc2:OrganizationSubtypeID>
+        <fc2:OrganizationTypeID>5</fc2:OrganizationTypeID>
+    </fc2:OrganizationClassificationTypeSubtype>
+</fc2:Party></fc2:party>

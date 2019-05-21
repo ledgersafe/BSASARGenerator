@@ -1,0 +1,71 @@
+<fc2:Party SeqNum="61">
+<fc2:ActivityPartyTypeCode>33</fc2:ActivityPartyTypeCode>
+<fc2:AdmissionConfessionYesIndicator>Y</fc2:AdmissionConfessionYesIndicator>
+<fc2:BothPurchaserSenderPayeeReceiveIndicator>Y</fc2:BothPurchaserSenderPayeeReceiveIndicator
+>
+<fc2:FemaleGenderIndicator>Y</fc2:FemaleGenderIndicator>
+<fc2:IndividualBirthDateText>19801025</fc2:IndividualBirthDateText>
+<fc2:PartyName SeqNum="62">
+<fc2:PartyNameTypeCode>L</fc2:PartyNameTypeCode>
+<fc2:RawEntityIndividualLastName>Mann</fc2:RawEntityIndividualLastName>
+<fc2:RawIndividualFirstName>Janice</fc2:RawIndividualFirstName>
+</fc2:PartyName>
+<fc2:PartyName SeqNum="63">
+<fc2:PartyNameTypeCode>AKA</fc2:PartyNameTypeCode>
+<fc2:RawPartyFullName>Janda</fc2:RawPartyFullName>
+</fc2:PartyName>
+<fc2:PartyName SeqNum="64">
+<fc2:PartyNameTypeCode>AKA</fc2:PartyNameTypeCode>
+<fc2:RawPartyFullName>Jan</fc2:RawPartyFullName>
+</fc2:PartyName>
+<fc2:Address SeqNum="65">
+<fc2:CityUnknownIndicator>Y</fc2:CityUnknownIndicator>
+<fc2:CountryCodeUnknownIndicator>Y</fc2:CountryCodeUnknownIndicator>
+<fc2:StateCodeUnknownIndicator>Y</fc2:StateCodeUnknownIndicator>
+<fc2:StreetAddressUnknownIndicator>Y</fc2:StreetAddressUnknownIndicator>
+<fc2:ZIPCodeUnknownIndicator>Y</fc2:ZIPCodeUnknownIndicator>
+</fc2:Address>
+<fc2:PhoneNumber SeqNum="66">
+<fc2:PhoneNumberText>6194760276</fc2:PhoneNumberText>
+<fc2:PhoneNumberTypeCode>R</fc2:PhoneNumberTypeCode>
+</fc2:PhoneNumber>
+<fc2:PhoneNumber SeqNum="67">
+<fc2:PhoneNumberExtensionText>5584</fc2:PhoneNumberExtensionText>
+<fc2:PhoneNumberText>6589784589</fc2:PhoneNumberText>
+<fc2:PhoneNumberTypeCode>W</fc2:PhoneNumberTypeCode>
+</fc2:PhoneNumber>
+<fc2:PartyIdentification SeqNum="68">
+<fc2:IdentificationPresentUnknownIndicator>Y</fc2:IdentificationPresentUnknownIndicator>
+<fc2:OtherIssuerCountryText>US</fc2:OtherIssuerCountryText>
+<fc2:OtherIssuerStateText>CA</fc2:OtherIssuerStateText>
+<fc2:OtherPartyIdentificationTypeText>Student ID</fc2:OtherPartyIdentificationTypeText>
+<fc2:PartyIdentificationNumberText>660623559</fc2:PartyIdentificationNumberText>
+<fc2:PartyIdentificationTypeCode>999</fc2:PartyIdentificationTypeCode>
+</fc2:PartyIdentification>
+<fc2:PartyIdentification SeqNum="69">
+<fc2:TINUnknownIndicator>Y</fc2:TINUnknownIndicator>
+</fc2:PartyIdentification>
+<fc2:PartyOccupationBusiness SeqNum="70">
+<fc2:NAICSCode>7548</fc2:NAICSCode>
+<fc2:OccupationBusinessText>Mechanic</fc2:OccupationBusinessText>
+</fc2:PartyOccupationBusiness>
+<fc2:ElectronicAddress SeqNum="71">
+<fc2:ElectronicAddressText>jan@gmail.com</fc2:ElectronicAddressText>
+<fc2:ElectronicAddressTypeCode>E</fc2:ElectronicAddressTypeCode>
+</fc2:ElectronicAddress>
+<fc2:ElectronicAddress SeqNum="72">
+<fc2:ElectronicAddressText>janda.org</fc2:ElectronicAddressText>
+<fc2:ElectronicAddressTypeCode>U</fc2:ElectronicAddressTypeCode>
+</fc2:ElectronicAddress>
+<fc2:PartyAssociation SeqNum="73">
+<fc2:NoRelationshipToInstitutionIndicator>Y</fc2:NoRelationshipToInstitutionIndicator>
+<fc2:SubjectRelationshipFinancialInstitutionTINText>458789856</fc2:SubjectRelationshipFinancialInstitutionTINText>
+</fc2:PartyAssociation>
+<fc2:PartyAccountAssociation SeqNum="74">
+<fc2:PartyAccountAssociationTypeCode>7</fc2:PartyAccountAssociationTypeCode>
+<fc2:Party SeqNum="75">
+<fc2:ActivityPartyTypeCode>41</fc2:ActivityPartyTypeCode>
+…
+</fc2:Party>
+</fc2:PartyAccountAssociation>
+</fc2:Party>

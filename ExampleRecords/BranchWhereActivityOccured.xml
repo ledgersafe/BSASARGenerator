@@ -1,0 +1,15 @@
+<fc2:Party SeqNum="39">
+    <fc2:ActivityPartyTypeCode>46</fc2:ActivityPartyTypeCode>
+    <fc2:SellingLocationIndicator>Y</fc2:SellingLocationIndicator>
+    <fc2:Address SeqNum="40">
+        <fc2:RawCityText>Cityville</fc2:RawCityText>
+        <fc2:RawCountryCodeText>US</fc2:RawCountryCodeText>
+        <fc2:RawStateCodeText>VA</fc2:RawStateCodeText>
+        <fc2:RawStreetAddress1Text>123 Address Way</fc2:RawStreetAddress1Text>
+        <fc2:RawZIPCode>547898856</fc2:RawZIPCode>
+    </fc2:Address>
+    <fc2:PartyIdentification SeqNum="41">
+        <fc2:PartyIdentificationNumberText>445564615654</fc2:PartyIdentificationNumberText>
+        <fc2:PartyIdentificationTypeCode>14</fc2:PartyIdentificationTypeCode>
+    </fc2:PartyIdentification>
+</fc2:Party>

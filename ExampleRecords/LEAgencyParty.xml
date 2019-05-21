@@ -1,0 +1,7 @@
+<fc2:Party SeqNum="21">
+    <fc2:ActivityPartyTypeCode>18</fc2:ActivityPartyTypeCode>
+    <fc2:PartyName SeqNum="22">
+        <fc2:PartyNameTypeCode>L</fc2:PartyNameTypeCode>
+        <fc2:RawPartyFullName>LE Contact Agency</fc2:RawPartyFullName>
+    </fc2:PartyName>
+</fc2:Party>
