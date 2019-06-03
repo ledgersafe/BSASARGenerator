@@ -1,15 +1,11 @@
 from datetime import datetime
 import json
 
-tinfo = {}
-#tinfo 
-with open("./t.json", 'r') as f:
-    tInfo = json.load(f)
-    print(type(tInfo))
 
+def loadActivities(filename):
+    res = {}
+    with open(filename, 'r') as f:
+        res = json.load(f)
+        return (res)
+        
 
-print(tInfo[0]['PackageId'])
-
-
-for i, t in enumerate(tInfo):
-    print(i, t)

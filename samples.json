@@ -1,0 +1,23 @@
+[
+    {
+        "SubjectName": "SkyTree Farms",
+        "PartyIdentification": "SKF",
+        "Amount": 1111.99,
+        "Date": "20190515",
+        "Narrative": "Bud Sale"
+    },
+    {
+        "SubjectName": "Kens Dispensary",
+        "PartyIdentification": "KD",
+        "Amount": 7438.23,
+        "Date": "20190520",
+        "Narrative": "CBD Sale"
+    },
+    {
+        "SubjectName": "Joshs Magic Wagon",
+        "PartyIdentification": "JMW",
+        "Amount": 88722.68,
+        "Date": "20190526",
+        "Narrative": "Large Transaction"
+    }
+]

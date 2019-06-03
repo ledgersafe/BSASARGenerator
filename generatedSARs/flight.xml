@@ -1,0 +1,295 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fc2:EFilingBatchXML xmlns:fc2="www.fincen.gov/base" xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" TotalAmount="97272.9" PartyCount="1" ActivityCount="1" ActivityAttachmentCount="2" AttachmentCount="2" xsi:schemaLocation="www.fincen.gov/base SARXBatchSchema.xsd">
+  <fc2:FormTypeCode>SARX</fc2:FormTypeCode>
+  <fc2:Activity SeqNum="0">
+    <fc2:FilingDateText>20190530</fc2:FilingDateText>
+    <fc2:ActivityAssociation SeqNum="1"/>
+    <fc2:Party SeqNum="7">
+      <fc2:ActivityPartyTypeCode>35</fc2:ActivityPartyTypeCode>
+      <fc2:PartyName SeqNum="2">
+        <fc2:PartyNameTypeCode>L</fc2:PartyNameTypeCode>
+        <fc2:RawPartyFullName>LedgerSafe</fc2:RawPartyFullName>
+      </fc2:PartyName>
+      <fc2:Address SeqNum="3">
+        <fc2:RawCityText>SD</fc2:RawCityText>
+        <fc2:RawCountryCodeText>US</fc2:RawCountryCodeText>
+        <fc2:RawStateCodeText>CA</fc2:RawStateCodeText>
+        <fc2:RawStreetAddress1Text>1 Nice Lane</fc2:RawStreetAddress1Text>
+        <fc2:RawZIPCode>92111</fc2:RawZIPCode>
+      </fc2:Address>
+      <fc2:PhoneNumber SeqNum="4">
+        <fc2:PhoneNumberText>7777777777</fc2:PhoneNumberText>
+      </fc2:PhoneNumber>
+      <fc2:PartyIdentification SeqNum="5">
+        <fc2:PartyIdentificationNumberText>TCC Code</fc2:PartyIdentificationNumberText>
+        <fc2:PartyIdentificationTypeCode>28</fc2:PartyIdentificationTypeCode>
+      </fc2:PartyIdentification>
+      <fc2:PartyIdentification SeqNum="6">
+        <fc2:PartyIdentificationNumberText>TIN Number</fc2:PartyIdentificationNumberText>
+        <fc2:PartyIdentificationTypeCode>4</fc2:PartyIdentificationTypeCode>
+      </fc2:PartyIdentification>
+    </fc2:Party>
+    <fc2:Party SeqNum="9">
+      <fc2:ActivityPartyTypeCode>37</fc2:ActivityPartyTypeCode>
+      <fc2:PartyName SeqNum="8">
+        <fc2:PartyNameTypeCode>L</fc2:PartyNameTypeCode>
+        <fc2:RawPartyFullName>LedgerSafe CSO</fc2:RawPartyFullName>
+      </fc2:PartyName>
+    </fc2:Party>
+    <fc2:Party SeqNum="14">
+      <fc2:ActivityPartyTypeCode>30</fc2:ActivityPartyTypeCode>
+      <fc2:PrimaryRegulatorTypeCode>1</fc2:PrimaryRegulatorTypeCode>
+      <fc2:PartyName SeqNum="10">
+        <fc2:PartyNameTypeCode>L</fc2:PartyNameTypeCode>
+        <fc2:RawPartyFullName>LS FI Partner</fc2:RawPartyFullName>
+      </fc2:PartyName>
+      <fc2:Address SeqNum="11">
+        <fc2:RawCityText>SD</fc2:RawCityText>
+        <fc2:RawCountryCodeText>US</fc2:RawCountryCodeText>
+        <fc2:RawStateCodeText>CA</fc2:RawStateCodeText>
+        <fc2:RawStreetAddress1Text>2 Bank Lane</fc2:RawStreetAddress1Text>
+        <fc2:RawZIPCode>90210</fc2:RawZIPCode>
+      </fc2:Address>
+      <fc2:PartyIdentification SeqNum="12">
+        <fc2:PartyIdentificationNumberText>TCC Code</fc2:PartyIdentificationNumberText>
+        <fc2:PartyIdentificationTypeCode>28</fc2:PartyIdentificationTypeCode>
+      </fc2:PartyIdentification>
+      <fc2:OrganizationClassificationTypeSubtype SeqNum="13">
+        <fc2:OrganizationSubtypeID>5999</fc2:OrganizationSubtypeID>
+        <fc2:OrganizationTypeID>999</fc2:OrganizationTypeID>
+        <fc2:OtherOrganizationSubTypeText>TBD</fc2:OtherOrganizationSubTypeText>
+        <fc2:OtherOrganizationTypeText>MRB</fc2:OtherOrganizationTypeText>
+      </fc2:OrganizationClassificationTypeSubtype>
+    </fc2:Party>
+    <fc2:Party SeqNum="24">
+      <fc2:ActivityPartyTypeCode>8</fc2:ActivityPartyTypeCode>
+      <fc2:PartyName SeqNum="22">
+        <fc2:PartyNameTypeCode>L</fc2:PartyNameTypeCode>
+        <fc2:RawPartyFullName>Contact Office Name</fc2:RawPartyFullName>
+      </fc2:PartyName>
+      <fc2:PhoneNumber SeqNum="23">
+        <fc2:PhoneNumberText>12312312345</fc2:PhoneNumberText>
+      </fc2:PhoneNumber>
+    </fc2:Party>
+    <fc2:Party SeqNum="16">
+      <fc2:ActivityPartyTypeCode>34</fc2:ActivityPartyTypeCode>
+      <fc2:PrimaryRegulatorTypeCode>1</fc2:PrimaryRegulatorTypeCode>
+      <fc2:PartyName SeqNum="15">
+        <fc2:PartyNameTypeCode>L</fc2:PartyNameTypeCode>
+      </fc2:PartyName>
+    </fc2:Party>
+    <fc2:Party SeqNum="18">
+      <fc2:ActivityPartyTypeCode>33</fc2:ActivityPartyTypeCode>
+      <fc2:PartyName SeqNum="17">
+        <fc2:PartyNameTypeCode>DBA</fc2:PartyNameTypeCode>
+        <fc2:RawPartyFullName>SkyTree Farms</fc2:RawPartyFullName>
+      </fc2:PartyName>
+    </fc2:Party>
+    <fc2:SuspiciousActivity SeqNum="20">
+      <fc2:SuspiciousActivityFromDateText>20190515</fc2:SuspiciousActivityFromDateText>
+      <fc2:TotalSuspiciousAmountText>1111.99</fc2:TotalSuspiciousAmountText>
+      <fc2:SuspiciousActivityClassification SeqNum="19">
+        <fc2:SuspiciousActivitySubtypeID>106</fc2:SuspiciousActivitySubtypeID>
+        <fc2:SuspiciousActivityTypeID>1</fc2:SuspiciousActivityTypeID>
+      </fc2:SuspiciousActivityClassification>
+    </fc2:SuspiciousActivity>
+    <fc2:ActivityNarrativeInformation SeqNum="21">
+      <fc2:ActivityNarrativeSequenceNumber>1</fc2:ActivityNarrativeSequenceNumber>
+      <fc2:ActivityNarrativeText>Bud Sale</fc2:ActivityNarrativeText>
+    </fc2:ActivityNarrativeInformation>
+  </fc2:Activity>
+  <fc2:Activity SeqNum="25">
+    <fc2:FilingDateText>20190530</fc2:FilingDateText>
+    <fc2:ActivityAssociation SeqNum="26"/>
+    <fc2:Party SeqNum="32">
+      <fc2:ActivityPartyTypeCode>35</fc2:ActivityPartyTypeCode>
+      <fc2:PartyName SeqNum="27">
+        <fc2:PartyNameTypeCode>L</fc2:PartyNameTypeCode>
+        <fc2:RawPartyFullName>LedgerSafe</fc2:RawPartyFullName>
+      </fc2:PartyName>
+      <fc2:Address SeqNum="28">
+        <fc2:RawCityText>SD</fc2:RawCityText>
+        <fc2:RawCountryCodeText>US</fc2:RawCountryCodeText>
+        <fc2:RawStateCodeText>CA</fc2:RawStateCodeText>
+        <fc2:RawStreetAddress1Text>1 Nice Lane</fc2:RawStreetAddress1Text>
+        <fc2:RawZIPCode>92111</fc2:RawZIPCode>
+      </fc2:Address>
+      <fc2:PhoneNumber SeqNum="29">
+        <fc2:PhoneNumberText>7777777777</fc2:PhoneNumberText>
+      </fc2:PhoneNumber>
+      <fc2:PartyIdentification SeqNum="30">
+        <fc2:PartyIdentificationNumberText>TCC Code</fc2:PartyIdentificationNumberText>
+        <fc2:PartyIdentificationTypeCode>28</fc2:PartyIdentificationTypeCode>
+      </fc2:PartyIdentification>
+      <fc2:PartyIdentification SeqNum="31">
+        <fc2:PartyIdentificationNumberText>TIN Number</fc2:PartyIdentificationNumberText>
+        <fc2:PartyIdentificationTypeCode>4</fc2:PartyIdentificationTypeCode>
+      </fc2:PartyIdentification>
+    </fc2:Party>
+    <fc2:Party SeqNum="34">
+      <fc2:ActivityPartyTypeCode>37</fc2:ActivityPartyTypeCode>
+      <fc2:PartyName SeqNum="33">
+        <fc2:PartyNameTypeCode>L</fc2:PartyNameTypeCode>
+        <fc2:RawPartyFullName>LedgerSafe CSO</fc2:RawPartyFullName>
+      </fc2:PartyName>
+    </fc2:Party>
+    <fc2:Party SeqNum="39">
+      <fc2:ActivityPartyTypeCode>30</fc2:ActivityPartyTypeCode>
+      <fc2:PrimaryRegulatorTypeCode>1</fc2:PrimaryRegulatorTypeCode>
+      <fc2:PartyName SeqNum="35">
+        <fc2:PartyNameTypeCode>L</fc2:PartyNameTypeCode>
+        <fc2:RawPartyFullName>LS FI Partner</fc2:RawPartyFullName>
+      </fc2:PartyName>
+      <fc2:Address SeqNum="36">
+        <fc2:RawCityText>SD</fc2:RawCityText>
+        <fc2:RawCountryCodeText>US</fc2:RawCountryCodeText>
+        <fc2:RawStateCodeText>CA</fc2:RawStateCodeText>
+        <fc2:RawStreetAddress1Text>2 Bank Lane</fc2:RawStreetAddress1Text>
+        <fc2:RawZIPCode>90210</fc2:RawZIPCode>
+      </fc2:Address>
+      <fc2:PartyIdentification SeqNum="37">
+        <fc2:PartyIdentificationNumberText>TCC Code</fc2:PartyIdentificationNumberText>
+        <fc2:PartyIdentificationTypeCode>28</fc2:PartyIdentificationTypeCode>
+      </fc2:PartyIdentification>
+      <fc2:OrganizationClassificationTypeSubtype SeqNum="38">
+        <fc2:OrganizationSubtypeID>5999</fc2:OrganizationSubtypeID>
+        <fc2:OrganizationTypeID>999</fc2:OrganizationTypeID>
+        <fc2:OtherOrganizationSubTypeText>TBD</fc2:OtherOrganizationSubTypeText>
+        <fc2:OtherOrganizationTypeText>MRB</fc2:OtherOrganizationTypeText>
+      </fc2:OrganizationClassificationTypeSubtype>
+    </fc2:Party>
+    <fc2:Party SeqNum="49">
+      <fc2:ActivityPartyTypeCode>8</fc2:ActivityPartyTypeCode>
+      <fc2:PartyName SeqNum="47">
+        <fc2:PartyNameTypeCode>L</fc2:PartyNameTypeCode>
+        <fc2:RawPartyFullName>Contact Office Name</fc2:RawPartyFullName>
+      </fc2:PartyName>
+      <fc2:PhoneNumber SeqNum="48">
+        <fc2:PhoneNumberText>12312312345</fc2:PhoneNumberText>
+      </fc2:PhoneNumber>
+    </fc2:Party>
+    <fc2:Party SeqNum="41">
+      <fc2:ActivityPartyTypeCode>34</fc2:ActivityPartyTypeCode>
+      <fc2:PrimaryRegulatorTypeCode>1</fc2:PrimaryRegulatorTypeCode>
+      <fc2:PartyName SeqNum="40">
+        <fc2:PartyNameTypeCode>L</fc2:PartyNameTypeCode>
+      </fc2:PartyName>
+    </fc2:Party>
+    <fc2:Party SeqNum="43">
+      <fc2:ActivityPartyTypeCode>33</fc2:ActivityPartyTypeCode>
+      <fc2:PartyName SeqNum="42">
+        <fc2:PartyNameTypeCode>DBA</fc2:PartyNameTypeCode>
+        <fc2:RawPartyFullName>Kens Dispensary</fc2:RawPartyFullName>
+      </fc2:PartyName>
+    </fc2:Party>
+    <fc2:SuspiciousActivity SeqNum="45">
+      <fc2:SuspiciousActivityFromDateText>20190520</fc2:SuspiciousActivityFromDateText>
+      <fc2:TotalSuspiciousAmountText>7438.23</fc2:TotalSuspiciousAmountText>
+      <fc2:SuspiciousActivityClassification SeqNum="44">
+        <fc2:SuspiciousActivitySubtypeID>106</fc2:SuspiciousActivitySubtypeID>
+        <fc2:SuspiciousActivityTypeID>1</fc2:SuspiciousActivityTypeID>
+      </fc2:SuspiciousActivityClassification>
+    </fc2:SuspiciousActivity>
+    <fc2:ActivityNarrativeInformation SeqNum="46">
+      <fc2:ActivityNarrativeSequenceNumber>1</fc2:ActivityNarrativeSequenceNumber>
+      <fc2:ActivityNarrativeText>CBD Sale</fc2:ActivityNarrativeText>
+    </fc2:ActivityNarrativeInformation>
+  </fc2:Activity>
+  <fc2:Activity SeqNum="50">
+    <fc2:FilingDateText>20190530</fc2:FilingDateText>
+    <fc2:ActivityAssociation SeqNum="51"/>
+    <fc2:Party SeqNum="57">
+      <fc2:ActivityPartyTypeCode>35</fc2:ActivityPartyTypeCode>
+      <fc2:PartyName SeqNum="52">
+        <fc2:PartyNameTypeCode>L</fc2:PartyNameTypeCode>
+        <fc2:RawPartyFullName>LedgerSafe</fc2:RawPartyFullName>
+      </fc2:PartyName>
+      <fc2:Address SeqNum="53">
+        <fc2:RawCityText>SD</fc2:RawCityText>
+        <fc2:RawCountryCodeText>US</fc2:RawCountryCodeText>
+        <fc2:RawStateCodeText>CA</fc2:RawStateCodeText>
+        <fc2:RawStreetAddress1Text>1 Nice Lane</fc2:RawStreetAddress1Text>
+        <fc2:RawZIPCode>92111</fc2:RawZIPCode>
+      </fc2:Address>
+      <fc2:PhoneNumber SeqNum="54">
+        <fc2:PhoneNumberText>7777777777</fc2:PhoneNumberText>
+      </fc2:PhoneNumber>
+      <fc2:PartyIdentification SeqNum="55">
+        <fc2:PartyIdentificationNumberText>TCC Code</fc2:PartyIdentificationNumberText>
+        <fc2:PartyIdentificationTypeCode>28</fc2:PartyIdentificationTypeCode>
+      </fc2:PartyIdentification>
+      <fc2:PartyIdentification SeqNum="56">
+        <fc2:PartyIdentificationNumberText>TIN Number</fc2:PartyIdentificationNumberText>
+        <fc2:PartyIdentificationTypeCode>4</fc2:PartyIdentificationTypeCode>
+      </fc2:PartyIdentification>
+    </fc2:Party>
+    <fc2:Party SeqNum="59">
+      <fc2:ActivityPartyTypeCode>37</fc2:ActivityPartyTypeCode>
+      <fc2:PartyName SeqNum="58">
+        <fc2:PartyNameTypeCode>L</fc2:PartyNameTypeCode>
+        <fc2:RawPartyFullName>LedgerSafe CSO</fc2:RawPartyFullName>
+      </fc2:PartyName>
+    </fc2:Party>
+    <fc2:Party SeqNum="64">
+      <fc2:ActivityPartyTypeCode>30</fc2:ActivityPartyTypeCode>
+      <fc2:PrimaryRegulatorTypeCode>1</fc2:PrimaryRegulatorTypeCode>
+      <fc2:PartyName SeqNum="60">
+        <fc2:PartyNameTypeCode>L</fc2:PartyNameTypeCode>
+        <fc2:RawPartyFullName>LS FI Partner</fc2:RawPartyFullName>
+      </fc2:PartyName>
+      <fc2:Address SeqNum="61">
+        <fc2:RawCityText>SD</fc2:RawCityText>
+        <fc2:RawCountryCodeText>US</fc2:RawCountryCodeText>
+        <fc2:RawStateCodeText>CA</fc2:RawStateCodeText>
+        <fc2:RawStreetAddress1Text>2 Bank Lane</fc2:RawStreetAddress1Text>
+        <fc2:RawZIPCode>90210</fc2:RawZIPCode>
+      </fc2:Address>
+      <fc2:PartyIdentification SeqNum="62">
+        <fc2:PartyIdentificationNumberText>TCC Code</fc2:PartyIdentificationNumberText>
+        <fc2:PartyIdentificationTypeCode>28</fc2:PartyIdentificationTypeCode>
+      </fc2:PartyIdentification>
+      <fc2:OrganizationClassificationTypeSubtype SeqNum="63">
+        <fc2:OrganizationSubtypeID>5999</fc2:OrganizationSubtypeID>
+        <fc2:OrganizationTypeID>999</fc2:OrganizationTypeID>
+        <fc2:OtherOrganizationSubTypeText>TBD</fc2:OtherOrganizationSubTypeText>
+        <fc2:OtherOrganizationTypeText>MRB</fc2:OtherOrganizationTypeText>
+      </fc2:OrganizationClassificationTypeSubtype>
+    </fc2:Party>
+    <fc2:Party SeqNum="74">
+      <fc2:ActivityPartyTypeCode>8</fc2:ActivityPartyTypeCode>
+      <fc2:PartyName SeqNum="72">
+        <fc2:PartyNameTypeCode>L</fc2:PartyNameTypeCode>
+        <fc2:RawPartyFullName>Contact Office Name</fc2:RawPartyFullName>
+      </fc2:PartyName>
+      <fc2:PhoneNumber SeqNum="73">
+        <fc2:PhoneNumberText>12312312345</fc2:PhoneNumberText>
+      </fc2:PhoneNumber>
+    </fc2:Party>
+    <fc2:Party SeqNum="66">
+      <fc2:ActivityPartyTypeCode>34</fc2:ActivityPartyTypeCode>
+      <fc2:PrimaryRegulatorTypeCode>1</fc2:PrimaryRegulatorTypeCode>
+      <fc2:PartyName SeqNum="65">
+        <fc2:PartyNameTypeCode>L</fc2:PartyNameTypeCode>
+      </fc2:PartyName>
+    </fc2:Party>
+    <fc2:Party SeqNum="68">
+      <fc2:ActivityPartyTypeCode>33</fc2:ActivityPartyTypeCode>
+      <fc2:PartyName SeqNum="67">
+        <fc2:PartyNameTypeCode>DBA</fc2:PartyNameTypeCode>
+        <fc2:RawPartyFullName>Joshs Magic Wagon</fc2:RawPartyFullName>
+      </fc2:PartyName>
+    </fc2:Party>
+    <fc2:SuspiciousActivity SeqNum="70">
+      <fc2:SuspiciousActivityFromDateText>20190526</fc2:SuspiciousActivityFromDateText>
+      <fc2:TotalSuspiciousAmountText>88722.68</fc2:TotalSuspiciousAmountText>
+      <fc2:SuspiciousActivityClassification SeqNum="69">
+        <fc2:SuspiciousActivitySubtypeID>106</fc2:SuspiciousActivitySubtypeID>
+        <fc2:SuspiciousActivityTypeID>1</fc2:SuspiciousActivityTypeID>
+      </fc2:SuspiciousActivityClassification>
+    </fc2:SuspiciousActivity>
+    <fc2:ActivityNarrativeInformation SeqNum="71">
+      <fc2:ActivityNarrativeSequenceNumber>1</fc2:ActivityNarrativeSequenceNumber>
+      <fc2:ActivityNarrativeText>Large Transaction</fc2:ActivityNarrativeText>
+    </fc2:ActivityNarrativeInformation>
+  </fc2:Activity>
+</fc2:EFilingBatchXML>
